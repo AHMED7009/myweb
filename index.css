@@ -11,6 +11,7 @@ header{
     border-radius: 8px;
     box-shadow: 0px 10px 50px rgba(103, 102, 102, 0.888);
     width: 1500px;
+    margin-right: 5px 2.5%;
 }
 .logo{
     font-size: 30px;
@@ -72,6 +73,10 @@ div a{
 .mg img{
     margin-left: 120px;
     padding-left: 150px;
+    height: auto;  
+}
+img{
+    max-width: 100%;
     height: auto;
 }
 
@@ -241,6 +246,3 @@ div a{
     font-size: 15px;
     color: rgb(94, 1, 195);
 }
-
-
-
