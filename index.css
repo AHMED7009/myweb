@@ -69,8 +69,9 @@ div a{
     flex-basis: 100%;
     text-align: center;
 }
-img{
-    max-width: 100%;
+.mg img{
+    margin-left: 120px;
+    padding-left: 150px;
     height: auto;
 }
 
@@ -240,5 +241,6 @@ img{
     font-size: 15px;
     color: rgb(94, 1, 195);
 }
+
 
 
