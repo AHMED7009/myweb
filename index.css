@@ -63,11 +63,12 @@ div a{
 }
 
 .mg{
-    flex-basis: 40%;
+    flex-basis: 100%;
     text-align: center;
 }
-img{
+.mg img{
     max-width: 100%;
+    margin-left: 30%;
     height: auto;
 }
 
