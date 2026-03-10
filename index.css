@@ -131,6 +131,9 @@ img{
 }
 
 .skl{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     flex-basis: 55%;
     margin-left: 250px;
     margin-top: -15px;
@@ -248,6 +251,7 @@ img{
     font-size: 15px;
     color: rgb(94, 1, 195);
 }
+
 
 
 
