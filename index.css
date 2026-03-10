@@ -236,6 +236,7 @@ img{
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     border-top: 4px solid rgb(94, 1, 195);
+    width: 1500px;
 }
 
 .conteaet a{
@@ -246,3 +247,4 @@ img{
     font-size: 15px;
     color: rgb(94, 1, 195);
 }
+
