@@ -206,11 +206,12 @@ img{
 }
 
 .cedr h2{
-    color: rgb(94, 1, 195);
+    color: rgb(255, 255, 255);
 }
 
 .cedr p{
     text-align: left;
+    color: rgb(191, 125, 253);
 }
 
 .cedr a{
@@ -249,6 +250,7 @@ img{
     font-size: 15px;
     color: rgb(94, 1, 195);
 }
+
 
 
 
